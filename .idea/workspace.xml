@@ -7,6 +7,7 @@
     <file path="$PROJECT_DIR$/db/schema.rb" changelist="3fd70a3b-6d2c-49d8-ba31-a6fbca9df0a5" time="1370364149739" ignored="false" />
     <file path="/post.rb" changelist="3fd70a3b-6d2c-49d8-ba31-a6fbca9df0a5" time="1370363502720" ignored="false" />
     <file path="/README.rdoc" changelist="3fd70a3b-6d2c-49d8-ba31-a6fbca9df0a5" time="1370462887541" ignored="false" />
+    <file path="/Gemfile" changelist="3fd70a3b-6d2c-49d8-ba31-a6fbca9df0a5" time="1370463623439" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,15 +72,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="36" selection-start="59" selection-end="59" vertical-scroll-proportion="-0.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="post.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models/post.rb">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,10 +90,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.rdoc" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.rdoc" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.rdoc">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.35326087">
               <folding />
             </state>
           </provider>
@@ -138,6 +139,7 @@
         <option value="$PROJECT_DIR$/app/views/posts/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/posts/_form.html.erb" />
         <option value="$PROJECT_DIR$/README.rdoc" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -779,6 +781,13 @@
     <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="40" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.35326087">
           <folding />
         </state>
       </provider>
